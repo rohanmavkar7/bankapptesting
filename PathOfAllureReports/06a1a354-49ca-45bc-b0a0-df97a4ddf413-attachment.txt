@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_userprofile.py:51 Testing URL
+[32mINFO    [0m root:test_userprofile.py:52 Base URL: https://apps.credence.in/
+[32mINFO    [0m root:test_userprofile.py:54 checking bank app title: Bank Application
+[32mINFO    [0m root:test_userprofile.py:56 Test case passed: URL working
+[32mINFO    [0m root:test_userprofile.py:57 Taking screenshot

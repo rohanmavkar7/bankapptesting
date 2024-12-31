@@ -1,0 +1,6 @@
+[32mINFO    [0m root:test_userprofile.py:27 Testing Login
+[32mINFO    [0m root:test_userprofile.py:29 Checking bank app title: Login
+[32mINFO    [0m root:test_userprofile.py:31 Entering username and password
+[32mINFO    [0m root:test_userprofile.py:33 Entering password
+[32mINFO    [0m root:test_userprofile.py:36 Login button clicked
+[32mINFO    [0m root:test_userprofile.py:40 Test case passed: Login successful
