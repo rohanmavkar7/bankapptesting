@@ -1,9 +1,7 @@
 import random
 import string
-import time
-
-import faker
 import pytest
+import faker
 from selenium.webdriver.common.by import By
 
 from pageobjects.SignUp_Page import SignUp_class
